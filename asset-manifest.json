@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7Breact-task-tracker%7D/static/css/main.80942ded.css",
-    "main.js": "/%7Breact-task-tracker%7D/static/js/main.511bec4b.js",
-    "static/js/787.577ea54f.chunk.js": "/%7Breact-task-tracker%7D/static/js/787.577ea54f.chunk.js",
-    "static/media/logo.svg": "/%7Breact-task-tracker%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/%7Breact-task-tracker%7D/index.html",
-    "main.80942ded.css.map": "/%7Breact-task-tracker%7D/static/css/main.80942ded.css.map",
-    "main.511bec4b.js.map": "/%7Breact-task-tracker%7D/static/js/main.511bec4b.js.map",
-    "787.577ea54f.chunk.js.map": "/%7Breact-task-tracker%7D/static/js/787.577ea54f.chunk.js.map"
+    "main.css": "/react-task-tracker/static/css/main.80942ded.css",
+    "main.js": "/react-task-tracker/static/js/main.8e60b017.js",
+    "static/js/787.577ea54f.chunk.js": "/react-task-tracker/static/js/787.577ea54f.chunk.js",
+    "static/media/logo.svg": "/react-task-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-task-tracker/index.html",
+    "main.80942ded.css.map": "/react-task-tracker/static/css/main.80942ded.css.map",
+    "main.8e60b017.js.map": "/react-task-tracker/static/js/main.8e60b017.js.map",
+    "787.577ea54f.chunk.js.map": "/react-task-tracker/static/js/787.577ea54f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80942ded.css",
-    "static/js/main.511bec4b.js"
+    "static/js/main.8e60b017.js"
   ]
 }
